@@ -4,13 +4,13 @@ Period = 4
 
 # StopNum = 1
 CostPerBike = 1
-CosrPerStop = 5
+CostPerStop = 5
 
 PillarNum = 10
 
 
 # parameter for stop
-D = [0 ,-88, -3,  0 , 9]
+D = [0 ,-9, -3,  1 , 9]
 
 
 
